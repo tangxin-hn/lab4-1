@@ -1,5 +1,4 @@
 package action;
-
 import java.util.*;
 import javax.faces.application.Application;
 import javax.servlet.http.HttpServletRequest;
